@@ -1,4 +1,4 @@
-# lg-shop v.1
+# lg-shop.ru v.1
 
 lg-shop.ru - Интернет-магазин "Leather goods" по заказу кожаных изделий. (Дипломная работа - надо доработать).
 Написан с исп. Bootstrap 4.6., Laravel 8, PHP 7.4, есть AdminPanel.
